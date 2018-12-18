@@ -6,7 +6,7 @@
 package javapocclient;
 /**
  *
- * @author imed
+ * @author Vinicius
  */
 import AdditionApp.*;
  
